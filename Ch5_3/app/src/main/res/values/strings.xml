@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ch5_3</string>
+    <string-array name="學歷">
+        <item>博士</item>
+        <item>碩士</item>
+        <item>大學</item>
+        <item>高中</item>
+    </string-array>
+</resources>
